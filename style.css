@@ -1,0 +1,348 @@
+
+body {
+    margin: 0px;
+    padding: 0px;
+   
+}
+.bb {
+    position: absolute;
+    width: 100%;
+    height: 58px;
+    left: 0px;
+    top: 100px;
+    background: #000000;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.mag {
+    position: absolute;
+    width: 95px;
+    height: 23px;
+    left: 105px;
+    top: 15px;
+    font-family: 'Alice';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    /* identical to box height */
+    color: #000000;
+}
+
+.skidki {
+    position: absolute;
+    width: 72px;
+    height: 23px;
+    left: 321px;
+    top: 15px;
+    font-family: 'Alice';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    /* identical to box height */
+    color: #000000;
+}
+.center { 
+    position: absolute;
+    width: 103px;
+    height: 23px;
+    left: 894px;
+    top: 30px;
+   
+}
+    .special1 {
+        font-family: 'Alice';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 23px;
+        /* identical to box height */
+        color: #000000;
+        
+        
+        border: none;
+        outline: none;
+        cursor: pointer;
+        border-radius: 5px;
+    }
+.corzin {
+    /* Корзина */
+    position: absolute;
+    width: 81px;
+    height: 23px;
+    left: 1100px;
+    top: 15px;
+    font-family: 'Alice';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    /* identical to box height */
+    color: #000000;
+}
+.we {
+    position: absolute;
+    width: 51px;
+    height: 23px;
+    left: 1284px;
+    top: 15px;
+    font-family: 'Alice';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    /* identical to box height */
+    color: #000000;
+}
+.logo {
+    position: absolute;
+    width: 90px;
+    height: 90px;
+    left: 660px;
+    top: 5px;
+}
+.main {
+    position: absolute;
+    width: 75px;
+    height: 25px;
+    left: 105px;
+    top: 100px;
+    font-family: 'Source Serif Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    /* identical to box height */
+    color: #FFFFFF;
+}
+.collection {
+    position: absolute;
+    width: 108px;
+    height: 23px;
+    left: 606px;
+    top: 100px;
+    font-family: 'Alice';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    /* identical to box height */
+    color: #FFFFFF;
+}
+.brend {
+    position: absolute;
+    width: 74px;
+    height: 23px;
+    left: 842px;
+    top: 100px;
+    font-family: 'Alice';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    /* identical to box height */
+    color: #FFFFFF;
+}
+.gift { /* Подарки */
+    position: absolute;
+    width: 81px;
+    height: 23px;
+    left: 1038px;
+    top: 100px;
+    font-family: 'Alice';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    /* identical to box height */
+    color: #ffffff;
+}
+.catalog {
+    position: absolute;
+    width: 190px;
+    height: 23px;
+    left: 290px;
+    top: 100px;
+    font-family: 'Alice';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    /* identical to box height */
+    color: #FFFFFF;
+}
+.accesuar {
+    position: absolute;
+    width: 111px;
+    height: 23px;
+    left: 1224px;
+    top: 100px;
+    font-family: 'Alice';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    /* identical to box height */
+    color: #FFFFFF;
+}
+
+
+
+.photo {
+    position: absolute;
+    width: 100%;
+    height: 650px;
+    left: 0px;
+    top: 200px;
+   
+}
+
+.text {
+    position: absolute;
+    width: 1275px;
+    height: 173px;
+    left: 43px;
+    top: 650px;
+    font-family: 'Source Serif Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 80px;
+    color: #FFFFFF;
+}
+
+
+        /* фон за окном */
+.modal {
+display: none; /* Hidden by default */
+position: fixed; /* Stay in place */
+z-index: 1; /* Sit on top */
+left: 0;
+top: 0;
+width: 100%; /* Full width */
+height: 100%; /* Full height */
+overflow: auto; /* Enable scroll if needed */
+background-color: rgb(0,0,0); /* Fallback color */
+background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+padding-top: 60px; /* Location of the box */
+}
+
+/* Модальное окно */
+.modal-content {
+background-color: #fefefe;
+margin: 10% auto; /* 15% from the top and centered */
+padding: 20px;
+border: 1px solid #888;
+width: 20%; /* ширина модального окна */
+}
+
+/* Крестик */
+.close {
+color: #aaa;
+float: right;
+font-size: 28px;
+font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+color: black;
+text-decoration: none;
+cursor: pointer;
+}
+
+.search{
+    position: relative;
+    left: 63%;
+    top: -35px;
+    width: 360px;
+    height: 30px;
+    background-color: #fff;
+    border-radius: 60px;
+    box-shadow: 0 0 0 5px rgba(72, 141, 244, 0.74);
+}
+.search .icon{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 50px;
+    height: 30px;
+    background-color: #fff;
+    border-radius: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 999;
+}
+.search .icon::before{
+    position: absolute;
+    content: '';
+    width: 10px;
+    height: 10px;
+    border: 3px solid #287dfc;
+    border-radius: 50%;
+    transform: translate(-3px,-3px);
+}
+
+.search .icon::after{
+    position: absolute;
+    content: '';
+    width: 2px;
+    height: 15px;
+    background: #287dfc;
+    transform: translate(7px,7px) rotate(-45deg);
+}
+
+.search .input {
+    position: relative;
+    width: 300px;
+    height: 10px;
+    left: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.search .input input{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+    outline: 0;
+    font-size: 15px;
+    padding: 10px 0;
+}
+
+.clear{
+    position: absolute;
+    top: 50%;
+    right: 15px;
+    width: 15px;
+    height: 15px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transform: translateY(-50%);
+    z-index: 9999;
+}
+.clear::before{
+    position: absolute;
+    content: '';
+    width: 1px;
+    height: 15px;
+    background: #999;
+    transform: rotate(45deg);
+}
+.clear::after{
+    position: absolute;
+    content: '';
+    width: 1px;
+    height: 15px;
+    background: #999;
+    transform: rotate(-45deg);
+}
+

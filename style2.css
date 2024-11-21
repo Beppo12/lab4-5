@@ -1,0 +1,543 @@
+
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.bb {
+    position: absolute;
+    width: 100%;
+    height: 58px;
+    left: 0px;
+    top: 100px;
+    background: #000000;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.mag {
+    position: absolute;
+    width: 95px;
+    height: 23px;
+    left: 105px;
+    top: 15px;
+    font-family: 'Alice';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    /* identical to box height */
+    color: #000000;
+}
+
+.skidki {
+    position: absolute;
+    width: 72px;
+    height: 23px;
+    left: 321px;
+    top: 15px;
+    font-family: 'Alice';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    /* identical to box height */
+    color: #000000;
+}
+
+.izbr {
+    position: absolute;
+    width: 103px;
+    height: 23px;
+    left: 894px;
+    top: 15px;
+    font-family: 'Alice';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    /* identical to box height */
+    color: #000000;
+}
+
+.corzin {
+    /* Корзина */
+    position: absolute;
+    width: 81px;
+    height: 23px;
+    left: 1100px;
+    top: 15px;
+    font-family: 'Alice';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    /* identical to box height */
+    color: #000000;
+}
+
+.we {
+    position: absolute;
+    width: 51px;
+    height: 23px;
+    left: 1284px;
+    top: 15px;
+    font-family: 'Alice';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    /* identical to box height */
+    color: #000000;
+}
+
+.logo {
+    position: absolute;
+    width: 90px;
+    height: 90px;
+    left: 660px;
+    top: 5px;
+}
+
+.main {
+    position: absolute;
+    width: 75px;
+    height: 25px;
+    left: 105px;
+    top: 100px;
+    font-family: 'Source Serif Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    /* identical to box height */
+    color: #FFFFFF;
+}
+
+.collection {
+    position: absolute;
+    width: 108px;
+    height: 23px;
+    left: 606px;
+    top: 100px;
+    font-family: 'Alice';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    /* identical to box height */
+    color: #FFFFFF;
+}
+
+.brend {
+    position: absolute;
+    width: 74px;
+    height: 23px;
+    left: 842px;
+    top: 100px;
+    font-family: 'Alice';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    /* identical to box height */
+    color: #FFFFFF;
+}
+
+.gift { /* Подарки */
+    position: absolute;
+    width: 81px;
+    height: 23px;
+    left: 1038px;
+    top: 100px;
+    font-family: 'Alice';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    /* identical to box height */
+    color: #ffffff;
+}
+
+.catalog {
+    position: absolute;
+    width: 190px;
+    height: 23px;
+    left: 290px;
+    top: 100px;
+    font-family: 'Alice';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    /* identical to box height */
+    color: #FFFFFF;
+}
+
+.accesuar {
+    position: absolute;
+    width: 111px;
+    height: 23px;
+    left: 1224px;
+    top: 100px;
+    font-family: 'Alice';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    /* identical to box height */
+    color: #FFFFFF;
+}
+
+.obcolc {
+    position: absolute;
+    width: 287px;
+    height: 448px;
+    left: 105px;
+    top: 213px;
+    background: linear-gradient(0deg, #FFFFFF, #FFFFFF), linear-gradient(0deg, #000000, #000000), linear-gradient(0deg, #000000, #000000), #000000;
+}
+.img1 {
+    position: absolute;
+    width: 287px;
+    height: 283px;
+    left: 0px;
+    top: 0px;
+}
+.text {
+    position: absolute;
+    width: 198px;
+    height: 23px;
+    left: 39px;
+    top: 309px;
+    font-family: 'Alice';
+    font-style:bold;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    /* identical to box height */
+    color: #000000;
+}
+.price1 {
+    position: absolute;
+    width: 76px;
+    height: 23px;
+    left: 85px;
+    top: 344px;
+    font-family: 'Alice';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    /* identical to box height */
+    color: #000000;
+
+}
+
+button{
+    color:white;
+}
+.button1 {
+    
+    position: absolute;
+    width: 100px;
+    height: 48px;
+    left: 68px;
+    top: 395px;
+    background-color: #000000;
+    
+   
+}
+
+
+
+.obcolc1 {
+    position: absolute;
+    width: 287px;
+    height: 448px;
+    left: 577px;
+    top: 213px;
+    background: linear-gradient(0deg, #FFFFFF, #FFFFFF), linear-gradient(0deg, #000000, #000000), linear-gradient(0deg, #000000, #000000), #000000;
+}
+
+.img2 {
+    position: absolute;
+    width: 287px;
+    height: 332px;
+    left: 0px;
+    top: 0px;
+}
+
+.text1 {
+    position: absolute;
+    width: 150px;
+    height: 23px;
+    left: 65px;
+    top: 320px;
+    font-family: 'Alice';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    /* identical to box height */
+    color: #000000;
+}
+
+.price2 {
+    position: absolute;
+    width: 78px;
+    height: 23px;
+    left: 100px;
+    top: 352px;
+    font-family: 'Alice';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    /* identical to box height */
+    color: #000000;
+}
+
+.button2 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 100px;
+    height: 48px;
+    left: 93px;
+    top: 395px;
+    background: #000000;
+    border: 1px solid #FFFFFF;
+}
+
+.obcolc2 {
+    position: absolute;
+    width: 287px;
+    height: 486px;
+    left: 1045px;
+    top: 175px;
+    background: linear-gradient(0deg, #FFFFFF, #FFFFFF), linear-gradient(0deg, #000000, #000000), linear-gradient(0deg, #000000, #000000), #000000;
+}
+
+.img3 {
+    position: absolute;
+    width: 287px;
+    height: 332px;
+    left: 0px;
+    top: 0px;
+}
+
+.text2 {
+    position: absolute;
+    width: 185px;
+    height: 23px;
+    left: 51px;
+    top: 346px;
+    font-family: 'Alice';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    /* identical to box height */
+    color: #000000;
+}
+
+.price3 {
+    position: absolute;
+    width: 78px;
+    height: 23px;
+    left: 93px;
+    top: 384px;
+    font-family: 'Alice';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    /* identical to box height */
+    color: #000000;
+}
+
+.button3 {
+    position: absolute;
+    width: 100px;
+    height: 48px;
+    left: 86px;
+    top: 434px;
+    background: #000000;
+}
+
+.obcolc3 {
+    position: absolute;
+    width: 287px;
+    height: 448px;
+    left: 104px;
+    top: 706px;
+    background: linear-gradient(0deg, #FFFFFF, #FFFFFF), linear-gradient(0deg, #000000, #000000), linear-gradient(0deg, #000000, #000000), #000000;
+}
+
+.img4 {
+    position: absolute;
+    width: 287px;
+    height: 332px;
+    left: 0px;
+    top: 0px;
+}
+
+.text3 {
+    position: absolute;
+    width: 187px;
+    height: 23px;
+    left: 50px;
+    top: 315px;
+    font-family: 'Alice';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    /* identical to box height */
+    color: #000000;
+}
+
+.price4 {
+    position: absolute;
+    width: 76px;
+    height: 23px;
+    left: 102px;
+    top: 357px;
+    font-family: 'Alice';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    /* identical to box height */
+    color: #000000;
+}
+
+.button4 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 100px;
+    height: 48px;
+    left: 90px;
+    top: 415px;
+    background: #000000;
+    border: 1px solid #FFFFFF;
+}
+
+.obcolc4 {
+    position: absolute;
+    width: 287px;
+    height: 448px;
+    left: 574px;
+    top: 706px;
+    background: linear-gradient(0deg, #FFFFFF, #FFFFFF), linear-gradient(0deg, #000000, #000000), linear-gradient(0deg, #000000, #000000), #000000;
+}
+
+.img5 {
+    position: absolute;
+    width: 287px;
+    height: 332px;
+    left: 0px;
+    top: 0px;
+}
+
+.text4 {
+    position: absolute;
+    width: 89px;
+    height: 23px;
+    left: 99px;
+    top: 319px;
+    font-family: 'Alice';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    /* identical to box height */
+    color: #000000;
+}
+
+.price5 {
+    position: absolute;
+    width: 89px;
+    height: 23px;
+    left: 99px;
+    top: 359px;
+    font-family: 'Alice';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    /* identical to box height */
+    color: #000000;
+}
+
+.button5 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 100px;
+    height: 48px;
+    left: 93px;
+    top: 415px;
+    background: #000000;
+    border: 1px solid #FFFFFF;
+}
+
+.obcolc5 {
+    position: absolute;
+    width: 287px;
+    height: 448px;
+    left: 1045px;
+    top: 706px;
+    background: linear-gradient(0deg, #FFFFFF, #FFFFFF), linear-gradient(0deg, #000000, #000000), linear-gradient(0deg, #000000, #000000), #000000;
+}
+
+.img6 {
+    position: absolute;
+    width: 287px;
+    height: 267px;
+    left: 0px;
+    top: 0px;
+    background: url(rgw5zbl338.jpg);
+}
+
+.text5 {
+    position: absolute;
+    width: 218px;
+    height: 23px;
+    left: 34px;
+    top: 319px;
+    font-family: 'Alice';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    /* identical to box height */
+    color: #000000;
+}
+
+.price6 {
+    position: absolute;
+    width: 89px;
+    height: 23px;
+    left: 98px;
+    top: 359px;
+    font-family: 'Alice';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    /* identical to box height */
+    color: #000000;
+}
+
+.button6 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 100px;
+    height: 48px;
+    left: 98px;
+    top: 420px;
+    background: #000000;
+    border: 1px solid #FFFFFF;
+}
+
+
+

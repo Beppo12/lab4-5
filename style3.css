@@ -1,0 +1,413 @@
+
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.bb {
+    position: absolute;
+    width: 100%;
+    height: 58px;
+    left: 0px;
+    top: 100px;
+    background: #000000;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.mag {
+    position: absolute;
+    width: 95px;
+    height: 23px;
+    left: 105px;
+    top: 15px;
+    font-family: 'Alice';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    /* identical to box height */
+    color: #000000;
+}
+
+.skidki {
+    position: absolute;
+    width: 72px;
+    height: 23px;
+    left: 321px;
+    top: 15px;
+    font-family: 'Alice';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    /* identical to box height */
+    color: #000000;
+}
+
+.izbr {
+    position: absolute;
+    width: 103px;
+    height: 23px;
+    left: 894px;
+    top: 15px;
+    font-family: 'Alice';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    /* identical to box height */
+    color: #000000;
+}
+
+.corzin {
+    /* Корзина */
+    position: absolute;
+    width: 81px;
+    height: 23px;
+    left: 1100px;
+    top: 15px;
+    font-family: 'Alice';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    /* identical to box height */
+    color: #000000;
+}
+
+.we {
+    position: absolute;
+    width: 51px;
+    height: 23px;
+    left: 1284px;
+    top: 15px;
+    font-family: 'Alice';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    /* identical to box height */
+    color: #000000;
+}
+
+.logo {
+    position: absolute;
+    width: 90px;
+    height: 90px;
+    left: 660px;
+    top: 5px;
+}
+
+.main {
+    position: absolute;
+    width: 75px;
+    height: 25px;
+    left: 105px;
+    top: 100px;
+    font-family: 'Source Serif Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    /* identical to box height */
+    color: #FFFFFF;
+}
+
+.collection {
+    position: absolute;
+    width: 108px;
+    height: 23px;
+    left: 606px;
+    top: 100px;
+    font-family: 'Alice';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    /* identical to box height */
+    color: #FFFFFF;
+}
+
+.brend {
+    position: absolute;
+    width: 74px;
+    height: 23px;
+    left: 842px;
+    top: 100px;
+    font-family: 'Alice';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    /* identical to box height */
+    color: #FFFFFF;
+}
+
+.gift { /* Подарки */
+    position: absolute;
+    width: 81px;
+    height: 23px;
+    left: 1038px;
+    top: 100px;
+    font-family: 'Alice';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    /* identical to box height */
+    color: #ffffff;
+}
+
+.catalog {
+    position: absolute;
+    width: 190px;
+    height: 23px;
+    left: 290px;
+    top: 100px;
+    font-family: 'Alice';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    /* identical to box height */
+    color: #FFFFFF;
+}
+
+.accesuar {
+    position: absolute;
+    width: 111px;
+    height: 23px;
+    left: 1224px;
+    top: 100px;
+    font-family: 'Alice';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    /* identical to box height */
+    color: #FFFFFF;
+}
+
+.block {
+    position: absolute;
+    width: 5px;
+    height: 759px;
+    left: 905px;
+    top: 168px;
+}
+
+.text1 {
+    position: absolute;
+    width: 353px;
+    height: 100px;
+    left: 91px;
+    top: 59px;
+    font-family: 'Alice';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 27px;
+    color: #000000;
+}
+
+.text2 {
+    position: absolute;
+    width: 353px;
+    height: 65px;
+    left: 91px;
+    top: 194px;
+    font-family: 'Alice';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    color: #000000;
+}
+
+.a1 {
+    position: absolute;
+    width: 90px;
+    height: 48px;
+    left: 91px;
+    top: 259px;
+    background: #000000;
+    color: #FFFFFF;
+   
+    border: none;
+}
+
+.a3 {
+    position: absolute;
+    width: 90px;
+    height: 48px;
+    left: 354px;
+    top: 259px;
+    background: #000000;
+    color: #FFFFFF;
+    border: none;
+}
+
+.a2 {
+    position: absolute;
+    width: 90px;
+    height: 48px;
+    left: 223px;
+    top: 259px;
+    background: #000000;
+    color: #FFFFFF;
+    border: none;
+}
+
+.text3 {
+    position: absolute;
+    width: 122px;
+    height: 37px;
+    left: 91px;
+    top: 342px;
+    font-family: 'Alice';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 37px;
+    /* identical to box height */
+    color: #000000;
+}
+
+.a4 {
+    position: absolute;
+    width: 254px;
+    height: 73px;
+    left: 91px;
+    top: 467px;
+    background: #000000;
+    color: #FFFFFF;
+    font-family: 'Alice';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 27px;
+    border:none;
+}
+
+.a5 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 254px;
+    height: 73px;
+    left: 91px;
+    top: 563px;
+    background: #FFFFFF;
+    border: 2px solid #000000;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 27px;
+    color: #000000;
+}
+
+.text4 {
+    position: absolute;
+    width: 282px;
+    height: 27px;
+    left: 103px;
+    top: 673px;
+    font-family: 'Alice';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 27px;
+    text-decoration-line: underline;
+    color: #000000;
+}
+
+.text5 {
+    position: absolute;
+    left: 105px;
+    top: 723px;
+    font-family: 'Alice';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 27px;
+    text-decoration-line: underline;
+    color: #000000;
+}
+.text6 {
+    position: absolute;
+    width: 141px;
+    height: 37px;
+    left: 110px;
+    top: 972px;
+    font-family: 'Alice';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 37px;
+    /* identical to box height */
+    color: #000000;
+}
+
+.text7 {
+    position: absolute;
+    width: 139px;
+    height: 37px;
+    left: 376px;
+    top: 972px;
+    font-family: 'Alice';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 37px;
+    /* identical to box height */
+    color: #000000;
+}
+.text8 {
+    position: absolute;
+    width: 257px;
+    height: 37px;
+    left: 606px;
+    top: 972px;
+    font-family: 'Alice';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 37px;
+    /* identical to box height */
+    color: #000000;
+}
+.text9 {
+    position: absolute;
+    width: 115px;
+    height: 37px;
+    left: 959px;
+    top: 972px;
+    font-family: 'Alice';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 37px;
+    /* identical to box height */
+    color: #000000;
+}
+.text10 {
+    position: absolute;
+    width: 120px;
+    height: 37px;
+    left: 1210px;
+    top: 972px;
+    font-family: 'Alice';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 37px;
+    /* identical to box height */
+    color: #000000;
+}
+
+.img1 {
+    position: absolute;
+    width: 510px;
+    height: 503px;
+    left: 160px;
+    top: 246px;
+}
